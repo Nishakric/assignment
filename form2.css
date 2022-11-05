@@ -1,0 +1,17 @@
+.main{
+    margin: auto;
+    padding: 0px;
+    border: 5px solid black;
+    background-color: beige;
+height: 750px;
+width: 1500px;
+}
+h4{
+    text-align: center;
+    border: 2px double black;
+    background-color: rgb(253, 180, 180);
+}
+table{
+    height: 250px;
+    width: 1500px;
+}
